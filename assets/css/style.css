@@ -247,3 +247,11 @@ p.copyright {
 .navbar-nav>li>a {
     color: #000000;
 }
+
+
+.card-img-bottom{
+color: #fff;
+height: auto;
+background: url('../img/login_page.png') center no-repeat;
+background-size: cover;
+}
